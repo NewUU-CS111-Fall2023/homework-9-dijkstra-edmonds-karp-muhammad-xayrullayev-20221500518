@@ -1,9 +1,9 @@
 /*
  USE THIS FILE FOR YOUR TESTS,
  AUTOGRADER WILL NOT EXECUTE THIS FILE.
- * Author:
- * Date:
- * Name:
+ * Author: Muhammad Xayrullayev
+ * Date:29.12.2023
+ * Name:Muhammad Xayrullayev
  */
 
 #include <iostream>
